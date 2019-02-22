@@ -1,1 +1,0 @@
-comments/getUnionComments/{表名}
